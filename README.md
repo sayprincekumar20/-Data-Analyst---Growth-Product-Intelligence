@@ -6,7 +6,7 @@ I analyzed user-level behavioral and revenue data to uncover meaningful insights
 
 Developed an interactive Power BI dashboard to track DAU/WAU/MAU and revenue trends
 
-Created a 5-slide PowerPoint report summarizing behavioral patterns and strategic findings
+Created a 13-slide PowerPoint report summarizing behavioral patterns and strategic findings
 
 Identified early signs of churn through login gaps and short session durations
 
